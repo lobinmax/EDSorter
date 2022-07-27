@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED Sorter", "ED Sorter\ED Sorter.csproj", "{B23F740C-7E34-4F54-BA6C-6C4F256C9984}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F37273A6-F27B-44C8-A95D-0179F678658E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED Sorter Service", "ED Sorter Service\ED Sorter Service.csproj", "{3B0C27D2-97F1-41EF-B5E1-E4D7B4514C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDSorterUtils", "EDSorterUtils\EDSorterUtils.csproj", "{7248A000-2418-4200-B4F7-9A11414EA852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B23F740C-7E34-4F54-BA6C-6C4F256C9984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23F740C-7E34-4F54-BA6C-6C4F256C9984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23F740C-7E34-4F54-BA6C-6C4F256C9984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23F740C-7E34-4F54-BA6C-6C4F256C9984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0C27D2-97F1-41EF-B5E1-E4D7B4514C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0C27D2-97F1-41EF-B5E1-E4D7B4514C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0C27D2-97F1-41EF-B5E1-E4D7B4514C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0C27D2-97F1-41EF-B5E1-E4D7B4514C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7248A000-2418-4200-B4F7-9A11414EA852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7248A000-2418-4200-B4F7-9A11414EA852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7248A000-2418-4200-B4F7-9A11414EA852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7248A000-2418-4200-B4F7-9A11414EA852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A300B86-0759-45D8-96C0-48741C8B756A}
+	EndGlobalSection
+EndGlobal

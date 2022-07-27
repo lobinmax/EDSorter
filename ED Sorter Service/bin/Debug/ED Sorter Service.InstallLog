@@ -1,0 +1,128 @@
+﻿Installing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing service ED Sorter Service...
+Creating EventLog source ED Sorter Service in log Application...
+Rolling back assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Restoring event log to previous state for source ED Sorter Service.
+Installing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing service ED Sorter Service...
+Service ED Sorter Service has been successfully installed.
+Creating EventLog source ED Sorter Service in log Application...
+Committing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Выполняется установка сборки 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Устанавливается служба ED Sorter Service...
+Создается исходный EventLog ED Sorter Service в журнале Application...
+Выполняется откат для сборки 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Восстанавливается исходное состояние журнала событий для источника ED Sorter Service.
+Installing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing service ED Sorter Service...
+Service ED Sorter Service has been successfully installed.
+Creating EventLog source ED Sorter Service in log Application...
+Committing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing service ED Sorter Service...
+Service ED Sorter Service has been successfully installed.
+Creating EventLog source ED Sorter Service in log Application...
+Committing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Uninstalling assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Removing EventLog source ED Sorter Service.
+Service ED Sorter Service is being removed from the system...
+Service ED Sorter Service was successfully removed from the system.
+Installing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing service ED Sorter Service...
+Service ED Sorter Service has been successfully installed.
+Creating EventLog source ED Sorter Service in log Application...
+Committing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Uninstalling assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Removing EventLog source ED Sorter Service.
+Service ED Sorter Service is being removed from the system...
+Service ED Sorter Service was successfully removed from the system.
+Installing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing service ED Sorter Service...
+Service ED Sorter Service has been successfully installed.
+Creating EventLog source ED Sorter Service in log Application...
+Committing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Uninstalling assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Removing EventLog source ED Sorter Service.
+Service ED Sorter Service is being removed from the system...
+Service ED Sorter Service was successfully removed from the system.
+Installing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe
+Installing service ED Sorter Service...
+Service ED Sorter Service has been successfully installed.
+Creating EventLog source ED Sorter Service in log Application...
+Committing assembly 'C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.InstallLog
+   assemblypath = C:\Users\lobin.ma\Documents\Project\ED Sorter\ED Sorter Service\bin\Debug\ED Sorter Service.exe

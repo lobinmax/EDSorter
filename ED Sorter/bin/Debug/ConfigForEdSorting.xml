@@ -1,0 +1,67 @@
+﻿<ED_Parameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ED_ParametersCollection>
+    <xs:schema
+      id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element
+        name="NewDataSet"
+        msdata:IsDataSet="true"
+        msdata:MainDataTable="ED_ParametersCollection"
+        msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice
+            minOccurs="0"
+            maxOccurs="unbounded">
+            <xs:element
+              name="ED_ParametersCollection">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element
+                    name="UID"
+                    msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                    type="xs:string" />
+                  <xs:element
+                    name="EdValue"
+                    type="xs:string"
+                    minOccurs="0" />
+                  <xs:element
+                    name="EdPath"
+                    type="xs:string"
+                    minOccurs="0" />
+                  <xs:element
+                    name="XSLTPath"
+                    type="xs:string"
+                    minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique
+          name="Constraint1"
+          msdata:PrimaryKey="true">
+          <xs:selector
+            xpath=".//ED_ParametersCollection" />
+          <xs:field
+            xpath="UID" />
+        </xs:unique>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <ED_ParametersCollection
+          diffgr:id="ED_ParametersCollection1"
+          msdata:rowOrder="0"
+          diffgr:hasChanges="inserted">
+          <UID>077ec31c-8f63-4438-95eb-d5c7a9ba1df2</UID>
+          <EdValue>ED211</EdValue>
+          <EdPath>C:\Temp\ED\ForSorter\ED211</EdPath>
+          <XSLTPath>C:\Users\lobin.ma\Documents\Tasks\2021\ED_xxx\IB\xml2html\xslt\UFEBS.xslt</XSLTPath>
+        </ED_ParametersCollection>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </ED_ParametersCollection>
+  <PathForSorter>C:\Temp\ED\Source</PathForSorter>
+  <PathForUnknow>C:\Temp\ED\ForSorter\Unknow</PathForUnknow>
+  <PathXmlToHtmlExe>C:\Users\lobin.ma\Documents\Tasks\2021\ED_xxx\IB\xml2html\XML2HTML.exe</PathXmlToHtmlExe>
+  <PathForArchive>C:\Temp\ED\Archive</PathForArchive>
+</ED_Parameters>
